@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> health wave</title>
+</head>
+    <style>
+        body{
+        background-image:url(http://backgroundcheckall.com/wp-content/uploads/2017/12/background-images-for-hospital-websites.png);
+        background-size:cover;
+        }
+     </style>
+
+
+<body>
+<p align="center"><img src="healthwave123.jpg"
+height="150px" width=450"px" alt="" />
+</p>
+<h1>Top 10 hospitals in kakinada </h1>
+<p>The hospitals and healthcare provides depends on the quality of their services.But in an age where most of us look up information online before making any decision.Most of the people visit a hospital website to get information. So these sites are very useful and easy to navigate and extremely well organized.Health is the biggest wealth.It helps us to enjoy all the little things in life.If one is not healthy,they fail to feel happy.Being unhappy can impact the health of people around us too.In order to be truly healthy,one must eat well, sleep on time and wake up early.A healthy person is someone free from diseases and can perform physcial activites.staying fit by excersing daily also helps to keep ones health in proper check.It can be achieved through prper nutrition and careful eating habits.It heps to perform our daily chores properly without being lazy or dull.based on the criteria we have listed some hospitals in kakinada.Here the list of best hospitals in kakinada who provides world class treatment at competitiverates and also you can find the local markets too.</p>
+<h2>list of hospitals in kakinada</h2>
+<p>By clicking the icon of respective hospitals, you can go through the details of the hospital</p>
+<a href="file:///C:/Users/Phani/Desktop/apolo/apolo.html"> <img src=apolonew.jpg height="100px" width="100px"></a>
+<a href="file:///C:/Users/Phani/Desktop/inodaya/inodaya.html"> <img src=inodayanew.jpg height="100px" width="100px"></a>
+<a href="file:///C:/Users/Phani/Desktop/trust/trust.html"> <img src=trustnew.jpg height="100px" width="100px"></a>
+<a href="file:///C:/Users/Phani/Desktop/srilasya/srilasya.html"> <img src=srilasyanew.jpg height="100px" width="100px"></a>
+<a href="file:///C:/Users/Phani/Desktop/neurostar/neurostar.html"> <img src=neurostarnew.jpg height="100px" width="100px"></a>
+<a href="file:///C:/Users/Phani/Desktop/shravani/shravani.html"> <img src=shravaninew.jpg height="100px" width="100px"></a>
+<a href="file:///C:/Users/Phani/Desktop/sbm/sbm.html"> <img src=sbmnew.jpg height="100px" width="100px"></a>
+<a href="file:///C:/Users/Phani/Desktop/krithi/krithi.html"> <img src=krithinew.jpg height="100px" width="100px"></a>
+<a href="file:///C:/Users/Phani/Desktop/kranthi/kranthi.html"> <img src=kranthinew.jpg height="100px" width="100px"></a>
+<a href="file:///C:/Users/Phani/Desktop/dhrusti/dhrusti.html"> <img src=dhrustinew.jpg height="100px" width="100px"></a>
+</body>
+</html>
